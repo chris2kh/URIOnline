@@ -26,5 +26,4 @@ function getInterval(number){
     }
 }
 
-// show result
 console.log(getInterval(number));

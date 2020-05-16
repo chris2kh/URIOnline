@@ -19,5 +19,4 @@ for(let i = 0; i < BANK_NOTES.length; i++){
     value = value % BANK_NOTES[i];
 }
 
-// show the result
 console.log(result);

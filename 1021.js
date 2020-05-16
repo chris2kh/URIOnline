@@ -54,5 +54,4 @@ let coinsResult = decompose(money, MOEDAS);
 // join result texts as requested
 let decompositionText = billsResult[1] + "\n" + coinsResult[1] + "\n";
 
-// show the final result
 console.log(decompositionText);

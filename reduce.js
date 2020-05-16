@@ -61,5 +61,4 @@ else {
     message += "Media final: " + weightAverage.toFixed(1);
 }
 
-// finally print results
 console.log(message)

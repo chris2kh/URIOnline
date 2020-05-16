@@ -33,5 +33,4 @@ timeConversion.forEach(conversionUnit =>{
 // remove final \n from the result
 result = result.substring(0, result.length - 1);
 
-// show result
 console.log(result);

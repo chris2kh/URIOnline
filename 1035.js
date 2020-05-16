@@ -26,5 +26,4 @@ function aceitos(a, b, c, d){
 
 let conditionalText = aceitos(a,b,c,d) ? "" : "nao ";
 
-// show result
 console.log("Valores " + conditionalText + "aceitos");
